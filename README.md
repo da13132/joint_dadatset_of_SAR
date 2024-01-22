@@ -3,7 +3,7 @@
 This is a joint dataset that combines SSDD, HRSID, and SARAIRCRAFT.
 
 **Data download addresses:**
-- Baidu Netdisk: [https://pan.baidu.com/s/1_WYdYDImBhLWSY1nqbMIfg](https://pan.baidu.com/s/1_WYdYDImBhLWSY1nqbMIfg) 
+- Baidu Netdisk: [https://pan.baidu.com/s/1_WYdYDImBhLWSY1nqbMIfg=wsip](https://pan.baidu.com/s/1_WYdYDImBhLWSY1nqbMIfg=wsip) 
   Extract code: wsip
 - Google Drive: *coming soon*
 
